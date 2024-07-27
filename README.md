@@ -1,2 +1,2 @@
 # Modified_ct_ann
-Developed modified CT model
+Developed modified CT-ANN model
